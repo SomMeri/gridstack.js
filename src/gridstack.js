@@ -1,5 +1,10 @@
 /**
- * gridstack.js 0.4.0
+ * gridstack.js 0.4.WT-1
+ *
+ * Modified by Whitestein
+ * Repo: https://github.com/SomMeri/gridstack.js/tree/v0.4.0-fixes
+ * Branch: v0.4.0-fixes
+ *
  * http://troolee.github.io/gridstack.js/
  * (c) 2014-2018 Pavel Reznikov, Dylan Weiss
  * gridstack.js may be freely distributed under the MIT license.
